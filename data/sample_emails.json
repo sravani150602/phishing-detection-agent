@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "label": "phishing",
+    "subject": "Urgent: Your PayPal account has been limited",
+    "sender": "security@paypa1-support.com",
+    "body": "Dear Customer,\n\nYour PayPal account has been temporarily limited due to suspicious activity.\n\nPlease verify your account within 24 hours by clicking the link below or your access will be permanently suspended:\n\nhttps://paypa1-secure-verification.com/restore\n\nPayPal Security Team"
+  },
+  {
+    "id": 2,
+    "label": "legitimate",
+    "subject": "Your Amazon order #112-3456789 has shipped",
+    "sender": "shipment-tracking@amazon.com",
+    "body": "Hello,\n\nYour order has shipped!\n\nOrder #112-3456789\nEstimated delivery: March 15–17\n\nTrack your package:\nhttps://www.amazon.com/your-orders\n\nThank you for shopping with Amazon."
+  },
+  {
+    "id": 3,
+    "label": "phishing",
+    "subject": "ACTION REQUIRED: Microsoft 365 subscription expiring",
+    "sender": "noreply@microsoft365-billing.net",
+    "body": "Dear Microsoft User,\n\nYour Microsoft 365 subscription is expiring TODAY. To avoid losing access to your emails and documents, update your payment information immediately:\n\nCLICK HERE: http://ms-365-renew.xyz/billing\n\nFAILURE TO ACT WILL RESULT IN ACCOUNT DELETION.\n\nMicrosoft Billing Department"
+  },
+  {
+    "id": 4,
+    "label": "phishing",
+    "subject": "You've won a $1,000 Amazon gift card!",
+    "sender": "rewards@amazon-giftcards-official.info",
+    "body": "Congratulations! You have been selected to receive a $1,000 Amazon gift card as part of our customer loyalty program.\n\nTo claim your prize, please provide your shipping address and credit card details for identity verification:\n\nhttps://amazon-reward-claim.com/verify\n\nOffer expires in 1 hour!"
+  },
+  {
+    "id": 5,
+    "label": "legitimate",
+    "subject": "Team meeting notes - Q1 Planning",
+    "sender": "sarah.johnson@company.com",
+    "body": "Hi everyone,\n\nAttached are the notes from today's Q1 planning meeting.\n\nKey action items:\n1. Submit budget forecasts by Friday\n2. Review updated roadmap in Confluence\n3. Next meeting: March 20 at 10am EST\n\nLet me know if you have any questions.\n\nBest,\nSarah"
+  },
+  {
+    "id": 6,
+    "label": "phishing",
+    "subject": "Verify your bank account - Immediate action required",
+    "sender": "security@wellsfarg0.com",
+    "body": "Dear Valued Customer,\n\nWe have detected unusual login attempts on your Wells Fargo online banking account.\n\nFor your protection, your account has been temporarily suspended. To restore access, please verify your identity:\n\n1. Full name\n2. Account number\n3. Social Security Number\n4. Online banking password\n\nReply to this email with the above information within 48 hours.\n\nWells Fargo Security"
+  },
+  {
+    "id": 7,
+    "label": "legitimate",
+    "subject": "Your GitHub pull request has been merged",
+    "sender": "noreply@github.com",
+    "body": "Hi sravani150602,\n\nPull request #47 'Add async classification endpoint' has been merged into main by code-reviewer.\n\nView the merge commit:\nhttps://github.com/your-org/phishing-agent/commit/abc123\n\nGitHub"
+  },
+  {
+    "id": 8,
+    "label": "phishing",
+    "subject": "IRS Tax Refund Notification - Claim $3,240",
+    "sender": "refunds@irs-gov-notification.com",
+    "body": "INTERNAL REVENUE SERVICE - TAX REFUND NOTIFICATION\n\nOur records indicate you are eligible for a tax refund of $3,240.00 for the fiscal year 2023.\n\nTo receive your refund, you must verify your identity and provide your bank routing number at:\n\nhttps://irs-refund-portal-2024.com\n\nNote: This offer expires in 72 hours. The IRS will not be held responsible for unclaimed funds."
+  },
+  {
+    "id": 9,
+    "label": "legitimate",
+    "subject": "Invitation: Data Science seminar - March 22",
+    "sender": "events@umd.edu",
+    "body": "Dear Graduate Students,\n\nYou are invited to the Spring Data Science Seminar Series.\n\nDate: Friday, March 22, 2024\nTime: 2:00 PM – 4:00 PM ET\nLocation: Iribe Center, Room 4105\nSpeaker: Dr. Emily Chen, Google Research\n\nTopic: 'Large Language Models in Production: Challenges and Solutions'\n\nRSVP at: https://events.umd.edu/seminar-march-22\n\nUMD Department of Computer Science"
+  },
+  {
+    "id": 10,
+    "label": "phishing",
+    "subject": "Your account password has expired - Reset now",
+    "sender": "it-helpdesk@company-it-support.net",
+    "body": "Dear Employee,\n\nYour corporate email password expired on March 10, 2024. You must reset it immediately to avoid being locked out of all company systems.\n\nReset your password here: https://corp-password-reset.xyz/employee-portal\n\nIf you do not reset within 2 hours, your account will be deactivated and HR will be notified.\n\nIT Help Desk"
+  }
+]
